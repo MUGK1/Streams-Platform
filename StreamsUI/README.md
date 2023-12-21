@@ -1,17 +1,11 @@
-## Streams Platform
+<h1 align="center">Streams Platform</h1>
 
-A Platform for Creators to Shine Audiences to Explore
+<p align="center">A Platform for Creators to Shine Audiences to Explore</p>
 
 ![Streams Home Page](public/images/Home.png)
 
 ## Learn More
 
-It is our DataBase Project for the 2023/2024 First Semester. We are a team of 3 students from the Prince Sultan University. 
-We are very excited to build this web app, and we hope you will like it.
+this is our front-end code that is build using Nextjs, and tailwind for the css,
+In the attached image tou could see our home page.
 
-
-## Happily Made By
-
-- Khaled Almansour
-- Osama Azab
-- Mouad Ghouti
