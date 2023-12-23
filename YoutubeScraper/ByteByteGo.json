@@ -1,0 +1,62 @@
+[
+    {
+        "title": "How Does Linux Boot Process Work?",
+        "url": "https://www.youtube.com/watch?v=XpFsMB6FoOs",
+        "thumbnail_url": "https://img.youtube.com/vi/XpFsMB6FoOs/maxresdefault.jpg",
+        "video_id": "XpFsMB6FoOs"
+    },
+    {
+        "title": "Why is JWT popular?",
+        "url": "https://www.youtube.com/watch?v=P2CPd9ynFLg",
+        "thumbnail_url": "https://img.youtube.com/vi/P2CPd9ynFLg/maxresdefault.jpg",
+        "video_id": "P2CPd9ynFLg"
+    },
+    {
+        "title": "How Git Works: Explained in 4 Minutes",
+        "url": "https://www.youtube.com/watch?v=e9lnsKot_SQ",
+        "thumbnail_url": "https://img.youtube.com/vi/e9lnsKot_SQ/maxresdefault.jpg",
+        "video_id": "e9lnsKot_SQ"
+    },
+    {
+        "title": "Top 8 Most Popular Network Protocols Explained",
+        "url": "https://www.youtube.com/watch?v=P6SZLcGE4us",
+        "thumbnail_url": "https://img.youtube.com/vi/P6SZLcGE4us/maxresdefault.jpg",
+        "video_id": "P6SZLcGE4us"
+    },
+    {
+        "title": "How Big Tech Ships Code to Production",
+        "url": "https://www.youtube.com/watch?v=xSPA2yBgDgA",
+        "thumbnail_url": "https://img.youtube.com/vi/xSPA2yBgDgA/maxresdefault.jpg",
+        "video_id": "xSPA2yBgDgA"
+    },
+    {
+        "title": "Our Recommended Materials For Cracking Your Next Tech Interview",
+        "url": "https://www.youtube.com/watch?v=wAMc7NyL4tQ",
+        "thumbnail_url": "https://img.youtube.com/vi/wAMc7NyL4tQ/maxresdefault.jpg",
+        "video_id": "wAMc7NyL4tQ"
+    },
+    {
+        "title": "System Design: Why is Kafka fast?",
+        "url": "https://www.youtube.com/watch?v=UNUz1-msbOM",
+        "thumbnail_url": "https://img.youtube.com/vi/UNUz1-msbOM/maxresdefault.jpg",
+        "video_id": "UNUz1-msbOM"
+    },
+    {
+        "title": "Top 6 Most Popular API Architecture Styles",
+        "url": "https://www.youtube.com/watch?v=4vLxWqE94l4",
+        "thumbnail_url": "https://img.youtube.com/vi/4vLxWqE94l4/maxresdefault.jpg",
+        "video_id": "4vLxWqE94l4"
+    },
+    {
+        "title": "HTTP/1 to HTTP/2 to HTTP/3",
+        "url": "https://www.youtube.com/watch?v=a-sBfyiXysI",
+        "thumbnail_url": "https://img.youtube.com/vi/a-sBfyiXysI/maxresdefault.jpg",
+        "video_id": "a-sBfyiXysI"
+    },
+    {
+        "title": "Kubernetes Explained in 6 Minutes | k8s Architecture",
+        "url": "https://www.youtube.com/watch?v=TlHvYWVUZyc",
+        "thumbnail_url": "https://img.youtube.com/vi/TlHvYWVUZyc/maxresdefault.jpg",
+        "video_id": "TlHvYWVUZyc"
+    }
+]

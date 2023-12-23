@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Linux for Hackers (and everyone) // FREE Course for Beginners",
+        "url": "https://www.youtube.com/watch?v=VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&pp=iAQB",
+        "thumbnail_url": "https://img.youtube.com/vi/VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&pp=iAQB/maxresdefault.jpg",
+        "video_id": "VbEx7B_PTOE&list=PLIhvC56v63IJIujb5cyE13oLuyORZpdkL&pp=iAQB"
+    },
+    {
+        "title": "Hacker Skills // OSINT (Information Gathering)",
+        "url": "https://www.youtube.com/watch?v=SvO_FDa8AIs&list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_&pp=iAQB",
+        "thumbnail_url": "https://img.youtube.com/vi/SvO_FDa8AIs&list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_&pp=iAQB/maxresdefault.jpg",
+        "video_id": "SvO_FDa8AIs&list=PLIhvC56v63IJ9SYBtdDsNnORfTNFCXR8_&pp=iAQB"
+    },
+    {
+        "title": "Learn Ethical Hacking (CEH Journey)",
+        "url": "https://www.youtube.com/watch?v=yFC8pb2TPdc&list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ&pp=iAQB",
+        "thumbnail_url": "https://img.youtube.com/vi/yFC8pb2TPdc&list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ&pp=iAQB/maxresdefault.jpg",
+        "video_id": "yFC8pb2TPdc&list=PLIhvC56v63IIJZRa3lzK6IeBQOH_VFjUQ&pp=iAQB"
+    },
+    {
+        "title": "you need to learn Virtual Machines RIGHT NOW!! (Kali Linux VM, Ubuntu, Windows)",
+        "url": "https://www.youtube.com/watch?v=wX75Z-4MEoM",
+        "thumbnail_url": "https://img.youtube.com/vi/wX75Z-4MEoM/maxresdefault.jpg",
+        "video_id": "wX75Z-4MEoM"
+    },
+    {
+        "title": "how to HACK a password // password cracking with Kali Linux and HashCat",
+        "url": "https://www.youtube.com/watch?v=z4_oqTZJqCo",
+        "thumbnail_url": "https://img.youtube.com/vi/z4_oqTZJqCo/maxresdefault.jpg",
+        "video_id": "z4_oqTZJqCo"
+    },
+    {
+        "title": "your home router SUCKS!! (use pfSense instead)",
+        "url": "https://www.youtube.com/watch?v=lUzSsX4T4WQ",
+        "thumbnail_url": "https://img.youtube.com/vi/lUzSsX4T4WQ/maxresdefault.jpg",
+        "video_id": "lUzSsX4T4WQ"
+    },
+    {
+        "title": "i bought a DDoS attack on the DARK WEB (don't do this)",
+        "url": "https://www.youtube.com/watch?v=eZYtnzODpW4",
+        "thumbnail_url": "https://img.youtube.com/vi/eZYtnzODpW4/maxresdefault.jpg",
+        "video_id": "eZYtnzODpW4"
+    },
+    {
+        "title": "find info on phone numbers with PhoneInfoga",
+        "url": "https://www.youtube.com/watch?v=6CnDdXVTxhU",
+        "thumbnail_url": "https://img.youtube.com/vi/6CnDdXVTxhU/maxresdefault.jpg",
+        "video_id": "6CnDdXVTxhU"
+    },
+    {
+        "title": "find social media accounts with Sherlock (in 5 MIN)",
+        "url": "https://www.youtube.com/watch?v=KdZvxxLsN3E",
+        "thumbnail_url": "https://img.youtube.com/vi/KdZvxxLsN3E/maxresdefault.jpg",
+        "video_id": "KdZvxxLsN3E"
+    },
+    {
+        "title": "FREE CCNA // What is a Network? // Day 0",
+        "url": "https://www.youtube.com/watch?v=S7MNX_UD7vY",
+        "thumbnail_url": "https://img.youtube.com/vi/S7MNX_UD7vY/maxresdefault.jpg",
+        "video_id": "S7MNX_UD7vY"
+    }
+]

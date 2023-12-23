@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Python Tutorial - Python Full Course for Beginners",
+        "url": "https://www.youtube.com/watch?v=_uQrJ0TkZlc",
+        "thumbnail_url": "https://img.youtube.com/vi/_uQrJ0TkZlc/maxresdefault.jpg",
+        "video_id": "_uQrJ0TkZlc"
+    },
+    {
+        "title": "Python for Beginners - Learn Python in 1 Hour",
+        "url": "https://www.youtube.com/watch?v=kqtD5dpn9C8",
+        "thumbnail_url": "https://img.youtube.com/vi/kqtD5dpn9C8/maxresdefault.jpg",
+        "video_id": "kqtD5dpn9C8"
+    },
+    {
+        "title": "JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour",
+        "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk",
+        "thumbnail_url": "https://img.youtube.com/vi/W6NZfCO5SIk/maxresdefault.jpg",
+        "video_id": "W6NZfCO5SIk"
+    },
+    {
+        "title": "MySQL Tutorial for Beginners [Full Course]",
+        "url": "https://www.youtube.com/watch?v=7S_tz1z_5bA",
+        "thumbnail_url": "https://img.youtube.com/vi/7S_tz1z_5bA/maxresdefault.jpg",
+        "video_id": "7S_tz1z_5bA"
+    },
+    {
+        "title": "Java Tutorial for Beginners",
+        "url": "https://www.youtube.com/watch?v=eIrMbAQSU34",
+        "thumbnail_url": "https://img.youtube.com/vi/eIrMbAQSU34/maxresdefault.jpg",
+        "video_id": "eIrMbAQSU34"
+    },
+    {
+        "title": "HTML Tutorial for Beginners: HTML Crash Course",
+        "url": "https://www.youtube.com/watch?v=qz0aGYrrlhU",
+        "thumbnail_url": "https://img.youtube.com/vi/qz0aGYrrlhU/maxresdefault.jpg",
+        "video_id": "qz0aGYrrlhU"
+    },
+    {
+        "title": "How to Learn to Code and Make $60k+ a Year",
+        "url": "https://www.youtube.com/watch?v=r16Rn4_jDfk",
+        "thumbnail_url": "https://img.youtube.com/vi/r16Rn4_jDfk/maxresdefault.jpg",
+        "video_id": "r16Rn4_jDfk"
+    },
+    {
+        "title": "Top Programming Languages in 2020",
+        "url": "https://www.youtube.com/watch?v=bjFvcFjJpE0",
+        "thumbnail_url": "https://img.youtube.com/vi/bjFvcFjJpE0/maxresdefault.jpg",
+        "video_id": "bjFvcFjJpE0"
+    },
+    {
+        "title": "React vs Angular vs Vue: What to Learn to Get a Front-end Job",
+        "url": "https://www.youtube.com/watch?v=pEbIhUySqbk",
+        "thumbnail_url": "https://img.youtube.com/vi/pEbIhUySqbk/maxresdefault.jpg",
+        "video_id": "pEbIhUySqbk"
+    },
+    {
+        "title": "What is Python? Why Python is So Popular?",
+        "url": "https://www.youtube.com/watch?v=Y8Tko2YC5hA",
+        "thumbnail_url": "https://img.youtube.com/vi/Y8Tko2YC5hA/maxresdefault.jpg",
+        "video_id": "Y8Tko2YC5hA"
+    }
+]

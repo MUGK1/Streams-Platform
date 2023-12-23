@@ -1,0 +1,62 @@
+[
+    {
+        "title": "\u00e2\u0080\u009cHello, world\u00e2\u0080\u009d from scratch on a 6502 \u00e2\u0080\u0094 Part 1",
+        "url": "https://www.youtube.com/watch?v=LnzuMJLZRdU",
+        "thumbnail_url": "https://img.youtube.com/vi/LnzuMJLZRdU/maxresdefault.jpg",
+        "video_id": "LnzuMJLZRdU"
+    },
+    {
+        "title": "How do CPUs read machine code? \u00e2\u0080\u0094 6502 part 2",
+        "url": "https://www.youtube.com/watch?v=yl8vPW5hydQ",
+        "thumbnail_url": "https://img.youtube.com/vi/yl8vPW5hydQ/maxresdefault.jpg",
+        "video_id": "yl8vPW5hydQ"
+    },
+    {
+        "title": "Assembly language vs. machine code \u00e2\u0080\u0094 6502 part 3",
+        "url": "https://www.youtube.com/watch?v=oO8_2JJV0B4",
+        "thumbnail_url": "https://img.youtube.com/vi/oO8_2JJV0B4/maxresdefault.jpg",
+        "video_id": "oO8_2JJV0B4"
+    },
+    {
+        "title": "Connecting an LCD to our computer \u00e2\u0080\u0094 6502 part 4",
+        "url": "https://www.youtube.com/watch?v=FY3zTUaykVo",
+        "thumbnail_url": "https://img.youtube.com/vi/FY3zTUaykVo/maxresdefault.jpg",
+        "video_id": "FY3zTUaykVo"
+    },
+    {
+        "title": "What is a stack and how does it work? \u00e2\u0080\u0094 6502 part 5",
+        "url": "https://www.youtube.com/watch?v=xBjQVxVxOxc",
+        "thumbnail_url": "https://img.youtube.com/vi/xBjQVxVxOxc/maxresdefault.jpg",
+        "video_id": "xBjQVxVxOxc"
+    },
+    {
+        "title": "RAM and bus timing \u00e2\u0080\u0094 6502 part 6",
+        "url": "https://www.youtube.com/watch?v=i_wrxBdXTgM",
+        "thumbnail_url": "https://img.youtube.com/vi/i_wrxBdXTgM/maxresdefault.jpg",
+        "video_id": "i_wrxBdXTgM"
+    },
+    {
+        "title": "8-bit computer update",
+        "url": "https://www.youtube.com/watch?v=HyznrdDSSGM",
+        "thumbnail_url": "https://img.youtube.com/vi/HyznrdDSSGM/maxresdefault.jpg",
+        "video_id": "HyznrdDSSGM"
+    },
+    {
+        "title": "Astable 555 timer - 8-bit computer clock - part 1",
+        "url": "https://www.youtube.com/watch?v=kRlSFm519Bo",
+        "thumbnail_url": "https://img.youtube.com/vi/kRlSFm519Bo/maxresdefault.jpg",
+        "video_id": "kRlSFm519Bo"
+    },
+    {
+        "title": "Monostable 555 timer - 8-bit computer clock - part 2",
+        "url": "https://www.youtube.com/watch?v=81BgFhm2vz8",
+        "thumbnail_url": "https://img.youtube.com/vi/81BgFhm2vz8/maxresdefault.jpg",
+        "video_id": "81BgFhm2vz8"
+    },
+    {
+        "title": "Bistable 555 - 8-bit computer clock - part 3",
+        "url": "https://www.youtube.com/watch?v=WCwJNnx36Rk",
+        "thumbnail_url": "https://img.youtube.com/vi/WCwJNnx36Rk/maxresdefault.jpg",
+        "video_id": "WCwJNnx36Rk"
+    }
+]
